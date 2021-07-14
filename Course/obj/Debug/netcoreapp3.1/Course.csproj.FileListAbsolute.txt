@@ -1,0 +1,13 @@
+C:\BKP\TFS\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.AssemblyReference.cache
+C:\BKP\TFS\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfoInputs.cache
+C:\BKP\TFS\Course\Course\obj\Debug\netcoreapp3.1\Course.AssemblyInfo.cs
+C:\BKP\TFS\Course\Course\obj\Debug\netcoreapp3.1\Course.csproj.CoreCompileInputs.cache
+C:\BKP\TFS\Course\Course\bin\Debug\netcoreapp3.1\Course.exe
+C:\BKP\TFS\Course\Course\bin\Debug\netcoreapp3.1\Course.deps.json
+C:\BKP\TFS\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.json
+C:\BKP\TFS\Course\Course\bin\Debug\netcoreapp3.1\Course.runtimeconfig.dev.json
+C:\BKP\TFS\Course\Course\bin\Debug\netcoreapp3.1\Course.dll
+C:\BKP\TFS\Course\Course\bin\Debug\netcoreapp3.1\Course.pdb
+C:\BKP\TFS\Course\Course\obj\Debug\netcoreapp3.1\Course.dll
+C:\BKP\TFS\Course\Course\obj\Debug\netcoreapp3.1\Course.pdb
+C:\BKP\TFS\Course\Course\obj\Debug\netcoreapp3.1\Course.genruntimeconfig.cache
